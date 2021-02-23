@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my new user
+=======
+This is user1
+>>>>>>> 9874b7bf3c26a4080b374045f05cf98f8f0db4be
